@@ -1,0 +1,11 @@
+li { 
+    margin-right: 5px; 
+} 
+.crossed-line {
+    text-decoration: line-through;
+}
+
+#map {
+    height: 500px;
+    width: 500px;
+}
